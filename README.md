@@ -1,0 +1,2 @@
+- Hi, I'm @RaidarT
+- Currently studying computer science
